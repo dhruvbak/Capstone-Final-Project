@@ -1,0 +1,7 @@
+Data
+
+To consider problem we can list data as follows:
+
+Data was collected from a file kaggle. It contained data of all cities of India. I cleaned the data and data of only Delhi NCR was created which included New Delhi, Gurgaon, Noida, Greater Noida, Faridabad.
+This data was further cleaned to remove missing values and visualization was created
+https://www.kaggle.com/rabhar/zomato-restaurants-in-india
